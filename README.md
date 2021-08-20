@@ -1,6 +1,8 @@
 # Kaggle: House Prices: Advanced Regression Techniques
-This Repo contains the code and data I used in the Kaggle Competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).<br>
-![](https://github.com/Rswcf/houseprices_kaggle/blob/master/_images/housesbanner.png)<br>
+This Repo contains the code and data I used in the Kaggle Competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+
+![](https://github.com/Rswcf/houseprices_kaggle/blob/master/_images/housesbanner.png)
+
 ## Data
 - train.csv - the training set, 1460 houses with 81 attributes, including the labels (sale prices)
 - test.csv - the test set, 1459 houses with 80 attributes<br>
